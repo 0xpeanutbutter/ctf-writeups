@@ -2,10 +2,12 @@
 > You can download the IDA from [here](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)
 
 
-### Binary
+### [Binary](Binary)
 
-### Forensics
+### [Forensics](Forensics)
 
-### Crypto
+### [Crypto](Crypto)
 
-### MISC
+### [Web](Web)
+
+### [MISC](Misc)

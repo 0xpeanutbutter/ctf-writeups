@@ -1,12 +1,12 @@
-# Binary1
-## Seeing the Binary1 on ida we can find a screen text
+> # Binary1
+## Seeing the Binary1 on ida we can find a secret text
 <br>
 <br>
 
 ![](pics/binary1-1.png)
 <br>
 
-## Tracing back to previous node we can see 7A69h ie 31337
+## Tracing back to previous node we can see 7A69h is being compared to the input ie 31337
 <br>
 <br>
 
